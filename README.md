@@ -3,14 +3,16 @@
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/emilyrodrigues17/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="emilycelia1712@gmail.com?subject=Hello%20Lis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:emilycelia1712@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="center"><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width = "300"/></h3>
 
 
-## :mortar_board: My Formations
+## :mortar_board: My Academic Formations
 - Electrical Engineering student in <a href="http://www1.uea.edu.br/">State University of Amazonas</a>
+
+## :books: Courses I am taking
 - Data Scientist Formation student at <a href="https://www.datascienceacademy.com.br/pages/home">Data Science Academy</a>
 - Data Science School student at <a href="https://sigmoidal.ai/">Sigmoidal</a>
 
