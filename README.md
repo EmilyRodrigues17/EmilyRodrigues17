@@ -13,8 +13,8 @@
 - Electrical Engineering student in <a href="http://www1.uea.edu.br/">State University of Amazonas</a>
 
 ## :books: Courses I am taking
-- Data Scientist Formation student at <a href="https://www.datascienceacademy.com.br/pages/home">Data Science Academy</a>
-- Data Science School student at <a href="https://sigmoidal.ai/">Sigmoidal</a>
+- Data Scientist Formation at <a href="https://www.datascienceacademy.com.br/pages/home">Data Science Academy</a>
+- Data Science School at <a href="https://sigmoidal.ai/">Sigmoidal</a>
 
 ## :computer: Work
 - I'm currently working full-time at [Bemol Digital](https://www.linkedin.com/company/bemoldigital/)
