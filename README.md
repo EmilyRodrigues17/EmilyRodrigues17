@@ -23,6 +23,7 @@
 - Web Development (Front-End)
 - Data Analytics
 - Machine Learning
+- SQL
 
 ## :rocket: Technologies
 
