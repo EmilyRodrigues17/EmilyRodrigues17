@@ -3,7 +3,7 @@
 <h3><img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width = "200"/></h3>
 
 ## :computer: Work
-- I'm currently working full-time at [Pagar.me](https://pagar.me/)
+- I'm currently working full-time at [Cora](https://www.cora.com.br/)
 
 ## :books: What I am currently studying
 - Web Development (Back-End)
